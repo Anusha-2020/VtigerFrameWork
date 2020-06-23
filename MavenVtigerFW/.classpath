@@ -22,6 +22,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar"/>
@@ -53,14 +58,9 @@
 	<classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/testng/testng/6.14.3/testng-6.14.3.jar" sourcepath="M2_REPO/org/testng/testng/6.14.3/testng-6.14.3-sources.jar"/>
-	<classpathentry kind="var" path="M2_REPO/com/beust/jcommander/1.72/jcommander-1.72.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/testng/testng/6.11/testng-6.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/beust/jcommander/1.64/jcommander-1.64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
